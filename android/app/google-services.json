@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "533826239479",
+    "firebase_url": "https://dice-d616f-default-rtdb.firebaseio.com",
+    "project_id": "dice-d616f",
+    "storage_bucket": "dice-d616f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533826239479:android:c83f3ca4db84edbd670cf2",
+        "android_client_info": {
+          "package_name": "com.example.moon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533826239479-6p5n7gtd5kjvrtt61orb22tduffp0d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXGcex6CUQzHO1IyThL32NCX9wb8LuzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533826239479-6p5n7gtd5kjvrtt61orb22tduffp0d4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533826239479:android:aebfb1ca9593b817670cf2",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533826239479-6p5n7gtd5kjvrtt61orb22tduffp0d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXGcex6CUQzHO1IyThL32NCX9wb8LuzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533826239479-6p5n7gtd5kjvrtt61orb22tduffp0d4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
